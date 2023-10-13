@@ -1,0 +1,41 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "username": "Hans1",
+      "email": "hans@mail.com",
+      "password": "abcde",
+      "img": ""
+    },
+    {
+      "username": "Table",
+      "email": "afraroad@gmail.com",
+      "password": "farfalich",
+      "img": "",
+      "id": 2
+    },
+    {
+      "username": "afraxyz",
+      "email": "dummy@gmail.com",
+      "password": "asdasd",
+      "img": "",
+      "id": 3
+    },
+    {
+      "username": "kaizokupiece",
+      "email": "laria@gmail.com",
+      "password": "12345678",
+      "img": "",
+      "id": 4
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "caption": "Testing123",
+      "img": "",
+      "userId": 1,
+      "date": "10-12-2023"
+    }
+  ]
+}
