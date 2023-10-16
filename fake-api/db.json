@@ -27,6 +27,27 @@
       "password": "12345678",
       "img": "",
       "id": 4
+    },
+    {
+      "username": "jomblomiskin",
+      "email": "jomblo@gmail.com",
+      "password": "Blackjoke",
+      "img": "",
+      "id": 5
+    },
+    {
+      "username": "huracon",
+      "email": "aser@gmail.com",
+      "password": "fangjoker",
+      "img": "",
+      "id": 6
+    },
+    {
+      "username": "ass",
+      "email": "sadassad",
+      "password": "sa",
+      "img": "",
+      "id": 7
     }
   ],
   "post": [
@@ -35,7 +56,69 @@
       "caption": "Testing123",
       "img": "",
       "userId": 1,
-      "date": "10-12-2023"
+      "date": "10-12-2021",
+      "likes": []
+    },
+    {
+      "caption": "Hi, this is my first post.",
+      "img": "",
+      "userId": 2,
+      "date": "2023-10-13T03:18:38.126Z",
+      "id": 2,
+      "likes": []
+    },
+    {
+      "caption": "second post.",
+      "img": "",
+      "userId": 2,
+      "date": "2023-10-13T03:24:06.020Z",
+      "id": 3,
+      "likes": []
+    },
+    {
+      "caption": "third post.",
+      "img": "",
+      "userId": 2,
+      "date": "2023-10-13T03:26:21.946Z",
+      "id": 4,
+      "likes": []
+    },
+    {
+      "caption": "fourth post",
+      "img": "",
+      "userId": 2,
+      "date": "2023-10-13T03:33:26.908Z",
+      "id": 5,
+      "likes": []
+    },
+    {
+      "caption": "fifth post",
+      "img": "",
+      "userId": 2,
+      "date": "2023-10-13T03:33:40.942Z",
+      "id": 6,
+      "likes": []
+    },
+    {
+      "caption": "test 123",
+      "img": "",
+      "userId": 2,
+      "date": "2023-10-13T06:30:09.379Z",
+      "id": 7,
+      "likes": [
+        1,
+        2
+      ]
+    },
+    {
+      "caption": "Hari ini makan apa ya gaes?",
+      "img": "",
+      "userId": 4,
+      "date": "2023-10-13T06:46:43.254Z",
+      "id": 8,
+      "likes": [
+        1
+      ]
     }
   ]
 }
