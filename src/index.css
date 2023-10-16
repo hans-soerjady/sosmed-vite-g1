@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
 .blue-bg-theme {
     background-color: #1D9BF0;
 }

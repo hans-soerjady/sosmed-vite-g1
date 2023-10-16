@@ -1,9 +1,9 @@
 import { BsThreeDots } from "react-icons/bs";
 
 const TrendCards = (props) => {
-    return <div className="flex flex-row justify-between cursor-pointer hover:bg-slate-700 py-2 px-4">
+    return <div className="flex flex-row justify-between cursor-pointer hover:bg-[#2d2d2d] py-2 px-4 transition ease-in-out duration-400">
         <div>
-            <p className="text-[14px] text-gray-400" >{props.category} - Trending</p>
+            <p className="text-[14px] text-gray-400" >{props.category} · Trending</p>
             <p className="text-[17px] tracking-wide font-bold">{props.title}</p>
             <p className="text-[14px] text-gray-400" >{props.num} posts</p>
         </div>
